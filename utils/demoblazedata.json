@@ -1,0 +1,23 @@
+[
+        {
+        "signupusername":"useruser1silpa",
+        "signuppassword":"PWPW1silpa"
+        },
+        {
+        "validusername":"usersilpa2",
+        "validpassword":"passwordsilpa2"
+        },
+        {
+        "invalidusername":"testwronguser",
+        "invalidpassword":"passwordsilpa22"
+        },
+        {
+        "name":"sankar",
+        "country":"india",
+        "city":"kochi",
+        "card":"1234",
+        "month":"june",
+        "year":"2026"
+
+        }
+]
